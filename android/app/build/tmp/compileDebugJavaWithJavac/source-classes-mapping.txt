@@ -1,0 +1,14 @@
+com/apex/MainApplication.java
+ com.apex.MainApplication
+ com.apex.MainApplication$1
+com/apex/ReactNativeFlipper.java
+ com.apex.ReactNativeFlipper
+ com.apex.ReactNativeFlipper$1
+ com.apex.ReactNativeFlipper$2
+ com.apex.ReactNativeFlipper$2$1
+com/apex/BuildConfig.java
+ com.apex.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/apex/MainActivity.java
+ com.apex.MainActivity

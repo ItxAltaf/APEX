@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837502939593",
+    "project_id": "apex-7673a",
+    "storage_bucket": "apex-7673a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837502939593:android:d09bb5d3719105c49c3818",
+        "android_client_info": {
+          "package_name": "com.apex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837502939593-6gihkqvnq3pnbogugtvhps5dm8rl5o39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlgy8k7T9ddfbBJBz5VeeOhLCOGSqJ-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837502939593-6gihkqvnq3pnbogugtvhps5dm8rl5o39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
